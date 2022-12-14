@@ -8,6 +8,6 @@ Create a database with name covidtmsdb
 Import covidtmsdb.sql file(given inside the zip package in SQL file folder)
 Run the script http://localhost/covid-tms
 
-Admin Credential
+Admin Credentials
 Username: admin
 Password: Test@123
